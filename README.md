@@ -1,4 +1,4 @@
-# TwittWordCloud
+# TwitterWordCloud
 
 R application that generates an image composed of words used in n tweets containing a particular subject, in which the size of each word indicates its frequency.
 
